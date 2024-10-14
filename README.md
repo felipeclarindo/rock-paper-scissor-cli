@@ -26,8 +26,8 @@ Este é um simples jogo de Pedra, Papel e Tesoura feito em Python, onde você jo
 ## Autor
 
  **Felipe Clarindo**
-  - [LinkedIn](https://www.linkedin.com/in/felipe-clarindo-934578289/)
-  - [Instagram](https://www.instagram.com/lipethegoat)
+  - [LinkedIn](https://www.linkedin.com/in/felipeclarindo)
+  - [Instagram](https://www.instagram.com/lipethecoder)
   - [GitHub](https://github.com/felipeclarindo)
 
 
