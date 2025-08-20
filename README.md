@@ -1,49 +1,42 @@
-# Jogo Pedra, Papel e Tesoura
+🌍 [Leia em Português](README.pt-BR.md)
 
-Este é um simples jogo de Pedra, Papel e Tesoura feito em Python, onde você joga contra o computador.
+# Rock Paper Scissors
 
-## Regras do Jogo
+This's a sample Rock Paper Scissor game developed in `Python`.
 
-- Pedra vence Tesoura.
-- Tesoura vence Papel.
-- Papel vence Pedra.
+## Game Rules
 
-## Funcionalidades
+- Rock win Scissor.
+- Scissor win Paper.
+- Paper win Rock.
 
-- Escolha entre Pedra, Papel ou Tesoura.
-- Sistema de Pontuação.
-- Interface de Menu para melhor experiencia do usuario
-- Saia do jogo a qualquer momento.
+## Steps to install and run
 
-## Como Jogar
-
-1. Clone o repositório para sua máquina local.
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/felipeclarindo/rock-paper-scissor.git
+git clone https://github.com/felipeclarindo/rock-paper-scissors-cli.git
 ```
 
-2. Entre no diretório da pasta.
+2. Enter directory:
 
 ```bash
-cd rock-paper-scissor
+cd rock-paper-scissors-cli
 ```
 
-3. Execute o arquivo.
+3. Run the file `main.py`
 
 ```bash
-python ./main.py
+python ./src/main.py
 ```
 
-4. Siga as instruções exibidas no console para jogar.
+4. Follow the instructions in the console to play.
 
-5. Divirta-se!
+## Contribution
 
-## Contribuição
+Contributions are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Autor
+## Author
 
 **Felipe Clarindo**
 
@@ -51,6 +44,6 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, sinta-s
 - [Instagram](https://www.instagram.com/lipethecoder)
 - [GitHub](https://github.com/felipeclarindo)
 
-## Licença
+## License
 
-Este projeto está licenciado sob a [GNU Affero License](https://www.gnu.org/licenses/agpl-3.0.html).
+This project is licensed under the [GNU Affero License](<https://www.gnu.org/licenses/agpl-3>.
